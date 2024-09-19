@@ -1,4 +1,4 @@
-company_names = ["Google", "Microsoft", "Amazon", "Facebook", "Tesla", "Intel", "IBM", "Oracle", "AMD", "Nvidia"]
+company_names = ["Google", "Microsoft", "Amazon", "Facebook", "Tesla", "Intel", "IBM", "Oracle", "AMD", "San Miguel Corporation"]
 
 print(company_names)
 
