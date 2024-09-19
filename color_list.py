@@ -1,4 +1,4 @@
-colors = ["Red", "Blue", "Green", "Yellow", "Orange", "Pink", "Purple", "Brown", "Gray", "Black", "White", "Silver", "Gold", "Navy", "Teal"]
+colors = ["Red", "Blue", "Green", "Yellow", "Orange", "Pink", "Purple", "Brown", "Gray", "Black", "White", "Silver", "Gold", "Navy", "Mint Green"]
 
 print(colors)
 
