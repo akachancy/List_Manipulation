@@ -1,4 +1,4 @@
-continents = ["Asia", "Europe", "North America", "South America", "Africa", "Oceania", "Antarctica"]
+continents = ["Asia", "Europe", "North America", "South America", "Africa", "Australia or Oceania", "Antarctica"]
 
 print(continents)
 
