@@ -10,7 +10,7 @@ animals_and_speeds = [
     ("Squirrel", "20 km/h"),
     ("Bear", "40 km/h"),
     ("Deer", "50 km/h"),
-    ("Snake", "3.5 km/h")
+    ("Sailfish", "110 km/h")
 ]
 
 print(animals_and_speeds)
