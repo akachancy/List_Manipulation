@@ -1,4 +1,4 @@
-vegetables = ["Carrot", "Potato", "Tomato", "Cucumber", "Broccoli", "Onion", "Cabbage"]
+vegetables = ["Carrot", "Potato", "Tomato", "Cucumber", "Broccoli", "Onion", "Lettuce"]
 
 print(vegetables)
 
