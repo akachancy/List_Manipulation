@@ -1,4 +1,4 @@
-social_media_platforms = ["Facebook", "Twitter", "TikTok", "YouTube", "Snapchat", "LinkedIn", "Reddit", "Pinterest", "Tumblr", "WhatsApp"]
+social_media_platforms = ["Facebook", "Twitter", "TikTok", "YouTube", "Snapchat", "LinkedIn", "Reddit", "Pinterest", "Telegram", "WhatsApp"]
 
 print(social_media_platforms)
 
