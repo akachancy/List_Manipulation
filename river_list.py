@@ -1,4 +1,4 @@
-famous_rivers = ["Amazon River", "Mississippi River", "Yangtze River", "Congo River", "Mekong River", "Niger River", "Yellow River", "Nile River", "Ob River", "Lena River"]
+famous_rivers = ["Amazon River", "Mississippi River", "Yangtze River", "Congo River", "Mekong River", "Niger River", "Yellow River", "Nile River", "Ob River", "Pasig River"]
 
 print(famous_rivers)
 
