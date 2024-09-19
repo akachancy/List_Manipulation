@@ -1,4 +1,4 @@
-historical_figures = ["Julius Caesar", "Napoleon Bonaparte", "Abraham Lincoln", "Winston Churchill", "Queen Elizabeth I", "Alexander the Great", "Cleopatra", "Genghis Khan", "Joan of Arc", "Mahatma Gandhi"]
+historical_figures = ["Julius Caesar", "Napoleon Bonaparte", "Abraham Lincoln", "Winston Churchill", "Queen Elizabeth I", "Alexander the Great", "Cleopatra", "Genghis Khan", "Joan of Arc", "Marie Curie"]
 
 print(historical_figures)
 
