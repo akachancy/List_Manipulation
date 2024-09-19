@@ -1,4 +1,4 @@
-famous_waterfalls = ["Victoria Falls", "Angel Falls", "Iguazu Falls", "Niagara Falls", "Kilimanjaro Falls", "Yosemite Falls", "Kaieteur Falls", "Dettifoss Falls", "Tugela Falls", "Sutherland Falls"]
+famous_waterfalls = ["Victoria Falls", "Angel Falls", "Iguazu Falls", "Niagara Falls", "Kilimanjaro Falls", "Yosemite Falls", "Kaieteur Falls", "Dettifoss Falls", "Tugela Falls", "Kawasan Falls"]
 
 print(famous_waterfalls)
 
