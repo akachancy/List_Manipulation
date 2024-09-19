@@ -1,4 +1,4 @@
-bird_species = ["Sparrow", "Pigeon", "Crow", "Owl", "Eagle", "Hawk", "Robin", "Duck", "Hummingbird", "Parrot", "Peacock", "Swan"]
+bird_species = ["Sparrow", "Pigeon", "Crow", "Owl", "Eagle", "Hawk", "Robin", "Duck", "Hummingbird", "Parrot", "Peacock", "Penguin"]
 
 print(bird_species)
 
