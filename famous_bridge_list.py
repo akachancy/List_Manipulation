@@ -1,4 +1,4 @@
-famous_bridges = ["Golden Gate Bridge", "Tower Bridge", "Sydney Harbour Bridge", "Brooklyn Bridge", "Akashi Kaikyō Bridge", "Ponte Vecchio", "Charles Bridge", "Millennium Bridge"]
+famous_bridges = ["Golden Gate Bridge", "Tower Bridge", "Sydney Harbour Bridge", "Brooklyn Bridge", "Akashi Kaikyō Bridge", "Ponte Vecchio", "Charles Bridge", "San Juanico Bridge"]
 
 print(famous_bridges)
 
