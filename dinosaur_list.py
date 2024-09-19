@@ -1,4 +1,4 @@
-dinosaur_names = ["Velociraptor", "Brachiosaurus", "Stegosaurus", "Triceratops", "Tyrannosaurus Rex", "Allosaurus", "Ankylosaurus", "Spinosaurus"]
+dinosaur_names = ["Velociraptor", "Brachiosaurus", "Stegosaurus", "Triceratops", "Tyrannosaurus Rex", "Allosaurus", "Ankylosaurus", "Iguanodon"]
 
 print(dinosaur_names)
 
