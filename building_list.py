@@ -1,4 +1,4 @@
-famous_buildings = ["Burj Khalifa", "Empire State Building", "Eiffel Tower", "Big Ben", "Great Wall of China", "Colosseum", "Taj Mahal", "Golden Gate Bridge"]
+famous_buildings = ["Burj Khalifa", "Empire State Building", "Eiffel Tower", "Big Ben", "Great Wall of China", "Colosseum", "Taj Mahal", "Malacañang Palace"]
 
 print(famous_buildings)
 
