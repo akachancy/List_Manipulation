@@ -1,4 +1,4 @@
-music_genres = ["Pop", "Rock", "Hip Hop", "R&B", "Classical", "Country", "Electronic", "Metal", "Jazz", "Blues", "Reggae", "Folk", "Indie Rock", "Soul", "Alternative Rock"]
+music_genres = ["Pop", "Rock", "Hip Hop", "R&B", "Classical", "Country", "Electronic", "Metal", "Jazz", "Blues", "Reggae", "Folk", "Indie Rock", "Soul", "Alternative"]
 
 print(music_genres)
 
