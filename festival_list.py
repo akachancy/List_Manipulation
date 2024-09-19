@@ -1,4 +1,4 @@
-festivals = ["Carnival", "Oktoberfest", "Rio de Janeiro Carnival", "Coachella Valley Music and Arts Festival", "Burning Man", "Tomorrowland", "Edinburgh Fringe Festival", "Venice Film Festival", "Comic-Con International", "Bonnaroo Music and Arts Festival", "Diwali", "Cannes Film Festival", "SXSW", "Lollapalooza", "Glastonbury Festival"]
+festivals = ["Carnival", "Oktoberfest", "Rio de Janeiro Carnival", "Coachella Valley Music and Arts Festival", "Burning Man", "Tomorrowland", "Edinburgh Fringe Festival", "Venice Film Festival", "Comic-Con International", "Bonnaroo Music and Arts Festival", "Pahiyas", "Cannes Film Festival", "SXSW", "Lollapalooza", "Glastonbury Festival"]
 
 print(festivals)
 
