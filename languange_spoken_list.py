@@ -1,4 +1,4 @@
-languages = ["English", "Mandarin Chinese", "Spanish", "Hindi", "Arabic", "Portuguese", "Bengali", "Russian", "Japanese", "Punjabi", "Javanese", "Marathi", "Telugu", "Vietnamese", "Korean", "French", "German", "Urdu", "Tamil", "Italian"]
+languages = ["English", "Mandarin Chinese", "Spanish", "Hindi", "Arabic", "Portuguese", "Bengali", "Russian", "Japanese", "Punjabi", "Javanese", "Marathi", "Telugu", "Vietnamese", "Korean", "French", "German", "Tagalog", "Tamil", "Italian"]
 
 print(languages)
 
