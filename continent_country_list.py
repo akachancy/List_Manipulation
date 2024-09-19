@@ -13,7 +13,7 @@ countries_and_continents = [
     ("Germany", "Europe"),
     ("Philippines", "Asia"),
     ("Egypt", "Africa"),
-    ("Vietnam", "Asia")
+    ("South Korea", "Asia")
 ]
 
 print(countries_and_continents)
