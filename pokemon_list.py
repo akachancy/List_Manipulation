@@ -1,4 +1,4 @@
-pokemon_names = ["Squirtle", "Bulbasaur", "Charmander", "Pikachu", "Eevee", "Jigglypuff", "Togepi", "Magikarp", "Gyarados", "Mewtwo", "Gengar", "Lucario", "Charizard", "Butterfree", "Dragonite"]
+pokemon_names = ["Squirtle", "Bulbasaur", "Charmander", "Pikachu", "Eevee", "Jigglypuff", "Togepi", "Magikarp", "Gyarados", "Mewtwo", "Gengar", "Lucario", "Charizard", "Butterfree", "Bulbasaur"]
 
 print(pokemon_names)
 
