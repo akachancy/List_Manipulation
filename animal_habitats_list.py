@@ -1,4 +1,4 @@
-animal_habitats = ["Forest", "Desert", "Savannah", "Jungle", "Arctic", "Ocean", "Grassland", "Tundra"]
+animal_habitats = ["Forest", "Desert", "Savannah", "Jungle", "Arctic", "Ocean", "Grassland", "Mountain"]
 
 print(animal_habitats)
 
