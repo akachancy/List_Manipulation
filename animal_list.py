@@ -1,4 +1,4 @@
-animal_names = ["Cat", "Dog", "Tiger", "Lion", "Panda", "Monkey", "Giraffe", "Elephant", "Bird", "Fish"]
+animal_names = ["Cat", "Dog", "Tiger", "Lion", "Panda", "Monkey", "Giraffe", "Elephant", "Bird", "Fox"]
 
 print(animal_names)
 
