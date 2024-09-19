@@ -2,7 +2,7 @@
 student_names = ["Alice", "Bob", "Charlie", "David", "Emily",
                  "Frank", "Grace", "Henry", "Isabella", "Jack",
                  "Kevin", "Lily", "Mia", "Noah", "Olivia",
-                 "Penelope", "Quinn", "Robert", "Sophia", "Thomas"]
+                 "Penelope", "Quinn", "Robert", "Sophia", "Gian"]
 
 # a. Print the entire list
 print("Student Names:")
