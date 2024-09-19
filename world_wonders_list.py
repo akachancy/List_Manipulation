@@ -1,4 +1,4 @@
-wonders_of_the_world = ["Colosseum", "Great Wall of China", "Machu Picchu", "Chichen Itza", "Petra", "Christ the Redeemer", "Taj Mahal"]
+wonders_of_the_world = ["Colosseum", "Great Wall of China", "Machu Picchu", "Chichen Itza", "Petra", "Hanging Gardens of Babylon", "Taj Mahal"]
 
 print(wonders_of_the_world)
 
