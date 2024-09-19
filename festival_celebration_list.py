@@ -1,4 +1,4 @@
-festival_celebrations = ["Christmas", "New Year's Eve", "Halloween", "Thanksgiving", "Easter", "Independence Day", "Hanukkah", "Diwali", "Eid al-Fitr", "Chinese New Year"]
+festival_celebrations = ["Christmas", "New Year's Eve", "Halloween", "Thanksgiving", "Easter", "Independence Day", "Hanukkah", "Sinulog Festival", "Eid al-Fitr", "Chinese New Year"]
 
 print(festival_celebrations)
 
