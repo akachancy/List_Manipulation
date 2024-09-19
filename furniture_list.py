@@ -1,4 +1,4 @@
-furniture_items = ["Bed", "Table", "Chair", "Wardrobe", "Desk", "Couch", "Dresser", "Bookshelf", "Television Stand", "Cabinet", "Lamp", "Nightstand"]
+furniture_items = ["Bed", "Table", "Chair", "Wardrobe", "Desk", "Couch", "Dresser", "Bookshelf", "Television Stand", "Cabinet", "Lamp", "Console Table"]
 
 print(furniture_items)
 
