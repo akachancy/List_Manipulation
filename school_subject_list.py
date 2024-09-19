@@ -1,4 +1,4 @@
-school_subjects = ["English", "Math", "Science", "History", "Geography", "Music", "Art", "P.E.", "Technology", "Language", "Home Economics", "Social Studies"]
+school_subjects = ["English", "Math", "Science", "History", "Geography", "Music", "Art", "P.E.", "Technology", "Language", "Home Economics", "Physics"]
 
 print(school_subjects)
 
