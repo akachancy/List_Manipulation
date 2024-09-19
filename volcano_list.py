@@ -1,4 +1,4 @@
-famous_volcanoes = ["Mount Everest", "Mount Fuji", "Mount Vesuvius", "Mauna Loa", "Mount Kilimanjaro", "Mount Etna", "Mount Pinatubo"]
+famous_volcanoes = ["Mount Everest", "Mount Fuji", "Mount Vesuvius", "Mauna Loa", "Mount Kilimanjaro", "Mount Etna", "Mayon Volcano"]
 
 print(famous_volcanoes)
 
