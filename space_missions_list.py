@@ -1,4 +1,4 @@
-space_missions = ["Apollo 11", "Voyager 1", "Voyager 2", "Mars Pathfinder", "Cassini-Huygens", "New Horizons", "Juno", "Curiosity", "Rosetta", "InSight"]
+space_missions = ["Apollo 11", "Voyager 1", "Voyager 2", "Mars Pathfinder", "Cassini-Huygens", "New Horizons", "Juno", "Curiosity", "Rosetta", "Hubble Space Telescope"]
 
 print(space_missions)
 
