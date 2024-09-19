@@ -1,4 +1,4 @@
-universities = ["University of Oxford", "University of Cambridge", "Stanford University", "Harvard University", "Massachusetts Institute of Technology", "University of California, Berkeley", "University of Tokyo", "University of Chicago", "University of Melbourne", "University of Toronto"]
+universities = ["University of Oxford", "University of Cambridge", "Stanford University", "Harvard University", "Massachusetts Institute of Technology", "University of California, Berkeley", "University of Tokyo", "University of Chicago", "University of Melbourne", "De La Salle University"]
 
 print(universities)
 
