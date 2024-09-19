@@ -1,4 +1,4 @@
-popular_drinks = ["Water", "Tea", "Juice", "Soda", "Milk", "Beer", "Wine", "Cocktail"]
+popular_drinks = ["Water", "Tea", "Juice", "Soda", "Milk", "Beer", "Wine", "Milktea"]
 
 print(popular_drinks)
 
