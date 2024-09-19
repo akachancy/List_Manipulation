@@ -1,4 +1,4 @@
-recipes = ["Spaghetti Bolognese", "Chicken Alfredo", "Pizza", "Sushi", "Tacos", "Lasagna", "Curry", "Ramen", "Burrito", "Pasta Carbonara", "Fried Rice", "Fish and Chips", "Chicken Tikka Masala", "Beef Stew", "Pesto Pasta"]
+recipes = ["Spaghetti Bolognese", "Chicken Alfredo", "Pizza", "Sushi", "Tacos", "Lasagna", "Curry", "Ramen", "Burrito", "Pasta Carbonara", "Fried Rice", "Fish and Chips", "Chicken Tikka Masala", "Beef Stew", "Bulalo"]
 
 print(recipes)
 
