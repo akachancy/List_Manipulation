@@ -1,4 +1,4 @@
-mountain_names = ["Mount Everest", "Mount Kilimanjaro", "Mount McKinley", "Mount Fuji", "Mount Aconcagua", "Mount Elbrus", "Mount Denali", "Mount Kosciuszko"]
+mountain_names = ["Mount Everest", "Mount Kilimanjaro", "Mount McKinley", "Mount Fuji", "Mount Aconcagua", "Mount Elbrus", "Mount Denali", "Mount Apo"]
 
 print(mountain_names)
 
