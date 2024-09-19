@@ -1,4 +1,4 @@
-natural_landmarks = ["Mount Everest", "Niagara Falls", "Great Barrier Reef", "Grand Canyon", "Victoria Falls", "Amazon Rainforest", "Sahara Desert", "Galapagos Islands", "Angkor Wat", "Taj Mahal"]
+natural_landmarks = ["Mount Everest", "Niagara Falls", "Great Barrier Reef", "Grand Canyon", "Victoria Falls", "Amazon Rainforest", "Sahara Desert", "Galapagos Islands", "Angkor Wat", "Banaue Rice Terraces"]
 
 print(natural_landmarks)
 
