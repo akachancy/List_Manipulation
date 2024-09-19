@@ -1,4 +1,4 @@
-job_titles = ["Doctor", "Lawyer", "Teacher", "Engineer", "Nurse", "Pilot", "Chef", "Salesperson", "Accountant", "Designer"]
+job_titles = ["Doctor", "Lawyer", "Teacher", "Engineer", "Nurse", "Pilot", "Chef", "Salesperson", "Accountant", "Programmer"]
 
 print(job_titles)
 
