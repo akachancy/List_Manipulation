@@ -1,4 +1,4 @@
-famous_inventions = ["Wheel", "Compass", "Lightbulb", "Telephone", "Airplane", "Computer", "Internet", "Smartphone"]
+famous_inventions = ["Electric Motor", "Compass", "Lightbulb", "Telephone", "Airplane", "Computer", "Internet", "Smartphone"]
 
 print(famous_inventions)
 
