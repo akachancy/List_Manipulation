@@ -1,4 +1,4 @@
-carpentry_tools = ["Hammer", "Saw", "Screwdriver", "Tape Measure", "Level", "Drill", "Chisel", "Clamps", "Sandpaper", "Safety Glasses"]
+carpentry_tools = ["Hammer", "Saw", "Screwdriver", "Tape Measure", "Level", "Drill", "Chisel", "Clamps", "Sandpaper", "Plane"]
 
 print("Carpentry Tools:")
 print(carpentry_tools)
