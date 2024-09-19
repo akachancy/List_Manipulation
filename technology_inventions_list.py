@@ -1,4 +1,4 @@
-modern_technology_inventions = ["Computer", "Internet", "Smartphone", "Laptop", "Tablet", "Robot", "Artificial Intelligence", "Virtual Reality", "Augmented Reality", "3D Printer", "Self-Driving Car", "Drone", "Blockchain", "Cloud Computing", "Internet of Things"]
+modern_technology_inventions = ["Computer", "Internet", "Smartphone", "Laptop", "Tablet", "Robot", "Artificial Intelligence", "Virtual Reality", "Augmented Reality", "3D Printer", "Self-Driving Car", "Drone", "Blockchain", "Cloud Computing", "5G Technology"]
 
 print(modern_technology_inventions)
 
