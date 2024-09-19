@@ -1,4 +1,4 @@
-oceans = ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean", "Southern Ocean"]
+oceans = ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean", "Southern or Antartic Ocean"]
 
 print(oceans)
 
