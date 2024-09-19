@@ -1,4 +1,4 @@
-animal_species = ["Lion", "Tiger", "Elephant", "Giraffe", "Chimpanzee", "Zebra", "Panda"]
+animal_species = ["Lion", "Tiger", "Elephant", "Giraffe", "Chimpanzee", "Blue Whale", "Panda"]
 
 print(animal_species)
 
