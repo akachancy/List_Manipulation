@@ -1,4 +1,4 @@
-famous_authors = ["William Shakespeare", "Jane Austen", "Charles Dickens", "Leo Tolstoy", "Fyodor Dostoevsky", "Virginia Woolf", "Ernest Hemingway", "Gabriel García Márquez", "Harper Lee", "J.R.R. Tolkien", "George Orwell", "Khaled Hosseini"]
+famous_authors = ["William Shakespeare", "Jane Austen", "Charles Dickens", "Leo Tolstoy", "Fyodor Dostoevsky", "Virginia Woolf", "Ernest Hemingway", "Gabriel García Márquez", "Harper Lee", "J.R.R. Tolkien", "George Orwell", "José Rizal"]
 
 print(famous_authors)
 
