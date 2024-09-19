@@ -1,4 +1,4 @@
-popular_sports = ["Soccer", "Basketball", "Tennis", "Baseball", "Volleyball", "Swimming", "Rugby", "Football", "Cricket", "Golf"]
+popular_sports = ["Soccer", "Basketball", "Tennis", "Baseball", "Volleyball", "Swimming", "Rugby", "Football", "Billiard", "Golf"]
 
 print(popular_sports)
 
