@@ -1,4 +1,4 @@
-world_currencies = ["US Dollar", "Euro", "British Pound", "Japanese Yen", "Chinese Yuan", "Indian Rupee", "Brazilian Real", "Australian Dollar", "Canadian Dollar", "Russian Ruble"]
+world_currencies = ["US Dollar", "Euro", "British Pound", "Japanese Yen", "Chinese Yuan", "Indian Rupee", "Brazilian Real", "Australian Dollar", "Canadian Dollar", "Philippine Peso"]
 
 print(world_currencies)
 
