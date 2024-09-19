@@ -1,4 +1,4 @@
-flower_names = ["Lily", "Daisy", "Sunflower", "Tulip", "Orchid", "Rose", "Jasmine", "Lavender", "Iris", "Carnation"]
+flower_names = ["Lily", "Daisy", "Sunflower", "Tulip", "Orchid", "Rose", "Jasmine", "Lavender", "Iris", "Cherry Blossom"]
 
 print(flower_names)
 
