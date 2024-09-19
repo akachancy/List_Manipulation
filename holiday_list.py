@@ -1,4 +1,4 @@
-holidays = ["New Year's Day", "Valentine's Day", "Easter", "Independence Day", "Thanksgiving", "Christmas", "Halloween", "Hanukkah", "Ramadan", "Eid al-Fitr", "Eid al-Adha", "Diwali"]
+holidays = ["New Year's Day", "Valentine's Day", "Easter", "Independence Day", "Thanksgiving", "Christmas", "Halloween", "Hanukkah", "Ramadan", "Eid al-Fitr", "Eid al-Adha", "Lunar New Year"]
 
 print(holidays)
 
